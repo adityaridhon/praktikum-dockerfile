@@ -1,0 +1,1 @@
+print("Halo Adit from folder WORKDIR w/ Python!")
